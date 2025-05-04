@@ -38,8 +38,8 @@ def similarity_with_cohere(reference : list[str], system_output : list[str], api
         pagination_index = 96
         while start_index < len(texts_to_embedd):
             response = co.embed(texts=texts_to_embedd[start_index:pagination_index],
-                                        model="embed-multilingual-v3.0",
-                                        output_dimension=1024,
+                                        model="embed-multilingual-light-v3.0",
+                                        output_dimension=384,
                                         input_type="search_query",
                                         embedding_types=["float"])
             embeddings.extend(response.embeddings.float_)
