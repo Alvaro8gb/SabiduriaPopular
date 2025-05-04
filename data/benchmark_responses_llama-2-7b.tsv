@@ -1,0 +1,4972 @@
+prompt_system	prompt_user	example	Respuesta	Model_output
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: ¿Adónde irá el buey que no are?
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Tomando como referente el buey, animal cuya ocupación principal era la de ser animal de tiro, en especial, en las labores de labranza, esta paremia afirma que, en cualquier ocupación, hay trabajos y dificultades que soportar, de modo que no cabe eludirlos cambiando de oficio o de lugar. Se aplica también a quien se ve obligado a trabajar adonde quiera que vaya o a quien en vano huye en este mundo de problemas porque los encuentra en cualquier parte. En esta línea, se encuentra el sentido de la adivinanza, cuya respuesta es- A la carniceríaoal matadero, y que encierra la reflexión amarga de que sólo le espera la muerte a quien ya no puede trabajar.	"
+<p>
+Significado: '¿Adónde irá el buey que no are?'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: ¿Adónde va la lengua? Adonde duelen las muelas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Igual que de modo instintivo la lengua va a la muela que duele para aliviarla, cada uno sabe mejor que nadie lo que le perjudica o lo que le conviene.	"
+La respuesta debe ser un texto en español, con formato de salida como el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: ¿Adónde va la lengua? Adonde duelen las muelas
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A amor mal correspondido, ausencia y olvido
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se recomienda olvidar los amores que, por no tener correspondencia, no pueden conducir a nada.	"
+<p>
+A amor mal correspondido, ausencia y olvido
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A barriga llena, corazón contento
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Una vez saciado el apetito, uno se siente satisfecho y feliz.	"
+<p>
+Significado: 'A barriga llena, corazón contento'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A bien obrar, bien pagar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien actúa honradamente, cumple su deber o realiza perfectamente la actividad encomendada es lógico que sea recompensado por ello.	"
+<p>
+Significado: 'A bien obrar, bien pagar'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A boda ni bautizo, no vayas sin ser llamado
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se recrimina a los entrometidos, especialmente cuando hay alegría y abundancia, como sucede en los banquetes. Alude también a la cordura con la que debe vivir quien se precia de ser honrado.	"
+El significado del refrán es:
+
+Si vas a una boda y no te llaman, no vas.
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* El refran es una expresión que se usa para dar consejos o explicar una situación.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buen entendedor, pocas palabras bastan
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Una persona despierta e inteligente entiende rápidamente lo que le dicen sin necesidad de entrar en detalles, basta una mera insinuación para comprender y actuar en consecuencia. Por lo general, se emplea la primera parte del refrán para dar una advertencia sin utilizar palabras ofensivas o para aludir a algo que no se desea mencionar de modo expreso.	"
+<p>
+Significado: 'A buen entendedor, pocas palabras bastan'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buen gato, buen rato
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se dice cuando los adversarios poseen idéntica fuerza. Por otra parte, aconseja una respuesta eficaz y bien dirigida a un buen ataque.	"
+<p>
+Significado: 'A buen gato, buen rato'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buen hambre no hay pan duro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando uno está hambriento, ha de comer lo que encuentra y no poner reparos a la calidad de lo que tiene a su alcance o de lo que se le ofrece. En un sentido más amplio, cuando se tiene necesidad, no se pone reparo alguno.	"
+<p>
+Significado: 'A buen hambre no hay pan duro'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buen servicio, mal galardón
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a quien no ha sido recompensado como se merece. Se diría cuando alguien ha puesto empeño en hacer algo bien, incluso puede haber recibido alabanzas por ello, pero no le han recompensado (económicamente o de otro modo) como cabría esperar.	"
+El significado de la paremia o refrán es:
+
+Significado: 'A buen servicio, mal galardón'
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buen sueño no hay mala cama
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando de verdad se está cansado, no se ponen reparos al lugar donde se va a dormir y recuperar fuerzas.	"
+<p>
+Significado: 'A buen sueño no hay mala cama'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buenas horas, mangas verdes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se emplea cuando la solución ya ha venido por otra vía, o no llega oportunamente, o ya no tiene interés. Se censura la demora en atender las necesidades o en solucionar los problemas.	"
+<p>
+Significado: 'A buenos horas, mangas verdes'
+</p>
+
+
+### Hints:
+
+* <p>
+  El refran es un tipo de frase que se utiliza para dar consejos o enseñar una lección.
+</p>
+
+* <p>
+  El refrán es una expresión popular, generalmente de origen oral, que tiene un significado simbólico y que se transmite de generación en generación.
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A buey viejo, cencerro nuevo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se emplea cuando alguien pretende destacar sin mérito, cuando se estima que alguien o algo tiene una importancia que no merece o cuando se compone y adorna a alguien o algo para darle mejor apariencia, una apariencia juvenil. Alude a los viejos que resultan ridículos por arreglarse como si fueran jóvenes, algo impropio para su edad. En sentido general, se refiere a lo que resulta inadecuado o desproporcionado. Se aplica también a la mercancía que se va a vender y a la conveniencia de darle una buena apariencia. También puede aplicarse al matrimonio entre personas de edades muy diferentes.	"
+<p>
+Significado: 'A buey viejo, cencerro nuevo'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido profundo y que se utiliza para explicar o dar consejos.
+* Un refrán es una frase o dicho popular, generalmente de origen antiguo, que contiene un sentido profundo y que se utiliza para explicar o dar consejos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A burro muerto, la cebada al rabo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Reprende a quienes pretenden ayudar o poner remedio fuera de tiempo, cuando ya es demasiado tarde y ha pasado la ocasión oportuna, por lo que ya no puede surtir efecto.	"
+<p>
+Significado: 'A burro muerto, la cebada al rabo'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A caballero nuevo, caballo viejo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Los instrumentos o medios buenos o de buena calidad facilitan el aprendizaje de los pincipiantes; así, para un jinete inexperto es mucho mejor montar un caballo ya amaestrado que uno sin domar. En un sentido más amplio, se indica que la experiencia de la persona madura debe encauzar la osadía y la intrepidez de la juventud.	"
+<p>
+Significado: 'A caballero nuevo, caballo viejo'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A caballo nuevo, jinete viejo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Elogia la experiencia de la vejez para encauzar la intrepidez de la juventud, mediante la imagen del jinete ya consagrado que sabe cómo domar o dominar un caballo joven. Por otra parte, es preferible dejar una tarea nueva y difícil para quien ya ha pasado por situaciones semejantes.	"
+<p>
+Significado: 'A caballo nuevo, jinete viejo'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido profundo y que se utiliza para explicar o dar consejos.
+* Un refrán es una frase corta, generalmente popular, que contiene un sentido profundo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A caballo regalado, no le mires el diente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán recomienda aceptar los regalos de buen grado y sin poner reparo alguno, pues se considera descortés el analizar exhaustivamente la calidad del obsequio, así como resaltar sus defectos o fallos.	"
+El significado del refrán es:
+
+Si te haces rico con dinero ajeno, no lo cuentes.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La cultura castellana es la cultura de España y sus territorios históricos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cada cerdo le llega su San Martín
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán indica que no queda impune el comportamiento del malvado, pues, antes o después, quien ha obrado mal recibe su merecido.	"
+<p>
+Significado: 'A cada cerdo le llega su San Martín'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cada olla, su cobertera
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cada cosa ha de complementarse con lo que le corresponde o necesita. Aplicado a los humanos, este refrán indica también que todos pueden encontrar pareja. Del mismo modo, da a entender que lo más insignificante puede hacer su servicio en algún momento.	"
+<p>
+Significado: 'A cada olla, su cobertera'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cada pajarillo le gusta su nidillo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cada cual tiene en gran estima su casa, sea cual sea su condición.	"
+El significado de la paremia o refrán es:
+
+<texto entre comillas>
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado profundo.
+* La paremia es una expresión en la que se usan dos palabras de significados opuestos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cada puerta, su dueña
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Da a entender el cuidado con que cada uno debe guardar lo suyo si se desea que esté seguro. También recomienda a cada uno atender su obligación, puesto que no conviene inmiscuirse en la vida de los demás.	"
+<p>
+Significado: 'A cada puerta, su dueña'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cada uno lo suyo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Nadie ha de pedir o reclamar más de lo que le corresponde, en especial si con ello perjudica a otra persona, pues cada uno debe conseguir lo que se merece.	"
+<p>
+Significado: 'A cada uno lo suyo'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A camino largo, paso corto
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No hay que precipitarse en alcanzar el fin deseado, sino que se debe dosificar el esfuerzo y tener en cuenta que toda empresa requiere su tiempo.	"
+<p>
+Significado: 'A camino largo, paso corto'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A canas honradas, no hay puertas cerradas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se refiere al respeto que se debe tener a los ancianos. Por otra parte, alude a quien es bien recibido en todas partes porque se ha ganado un buen nombre al cabo de los años, por su juicio y prudencia.	"
+<p>
+Significado: 'A canas honradas, no hay puertas cerradas'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A carne de lobo, diente de perro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Para afrontar una dificultad o una situación difícil hay que actuar con decisión y contundencia.	"
+<p>
+Significado: 'A carne de lobo, diente de perro'
+</p>
+
+
+### Explanation:
+
+El refrán se refiere a la falta de integridad moral de un individuo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A casa de tu tía, mas no cada día
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No es conveniente excederse en la frecuencia ni en la duración de las visitas a parientes y amigos para no cansarlos.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura retórica que consiste en la asociación de dos o más conceptos, palabras o frases que tienen algún tipo de relación entre sí.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A chico pajarillo, chico nidillo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El trato dado a alguien debe estar conforme a su condición y categoría. Esta paremia puede señalar también la conveniencia de adaptarse a las circunstancias.	"
+<p>
+Significado: 'A chico pajarillo, chico nidillo' significa que un pequeño animal puede tener una gran familia.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cualquier dolencia es remedio la paciencia
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La enfermedad ha de combatirse, pero requiere también saber esperar a que siga su curso según las leyes de la naturaleza.	"
+<p>
+Significado: 'A cualquier dolencia es remedio la paciencia'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A cuerpo débil, larga vida
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Paradójicamente, la persona de complexión frágil puede llegar a vivir más tiempo que otra más robusta, bien porque sólo sea débil en apariencia, sea porque se cuida y administra sus fuerzas y así alarga su vida..	"
+<p>
+Significado: 'A cuerpo débil, larga vida'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A dineros pagados, brazos quebrados
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda no pagar por adelantado un servicio, pues con frecuencia se descuida su ejecución, se retrasa la realización de lo acordado. Alude también a la dificultad de recuperar el dinero prestado.	"
+<p>
+Significado: 'A dineros pagados, brazos quebrados'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la situación en la que un hombre se encuentra con una mujer y le ofrece su ayuda. Ella acepta y él se ve obligado a hacerle caso, pero al final ella lo engaña y le roba todo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A Dios rogando y con el mazo dando
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando deseamos algo, está bien encomendarse a Dios, a la Providencia, pero haciendo a la vez todo lo que esté en nuestra mano por lograr lo que pretendemos. En los tiempos actuales, ha tomado un sentido crítico -pero bastante errado con respecto al auténtico sentido del refrán- contra las personas que rezan a Dios, pero hacen daño. La formaA Dios rogando y al macho dandotiene un significado distinto, que explica Francisco Rodríguez Marín (1926): se decía en el campo para indicar la conveniencia de «salir presto del camino peligroso».	"
+<p>
+Significado: 'A Dios rogando y con el mazo dando' es un refrán que se refiere a la necesidad de combinar la oración con la acción para lograr los objetivos. El refrán se refiere al hecho de que las personas deben pedir a Dios por su ayuda, pero también tienen que hacer algo para conseguirlo.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A enemigo que huye, puente de plata
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda evitar a toda costa a los enemigos. Cuando un contrincante abandona, conviene darle facilidades para que se marche y, de este modo, nos deje tranquilos. En general, se recomienda facilitar, incluso de manera obsequiosa, la partida de un competidor o de quien pueda causarnos daño.	"
+<p>
+Significado: 'A enemigo que huye, puente de plata'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A escudero pobre, taza de plata y olla de cobre
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se dice de quien presume de una riqueza que no tiene a costa de pasar privaciones. Este refrán también alude a quien puede pasar con la correspondiente decencia a su estado si se modera en los gastos y no aparenta ser hidalgo o noble. Parece que el primer sentido recomienda la precaución de comprar utensilios de material durarero, para que no se rompan y haya que hacer gasto con frecuencia al adquirir otros, precisamente porque no se dispone de mucho dinero. Estaría relacionado, pues, con la paremiaLo barato sale caro.	"
+<p>
+Significado: 'A escudero pobre, taza de plata y olla de cobre'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la diferencia entre los dos tipos de vasijas. La taza de plata es un objeto de lujo, mientras que la olla de cobre es una herramienta básica para el hogar. El refrán significa que si uno tiene una vida sencilla y humilde, no necesita tener objetos de lujo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A falta de pan, buenas son tortas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda conformarse con lo que se tiene, si no se ha conseguido algo mejor.	"
+<p>
+Significado: 'A falta de pan, buenas son tortas'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A gran huésped, gran plato
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La cortesía aconseja tratar a cada uno de acuerdo con su categoría y merecimiento.	"
+<p>
+Significado: 'A gran huésped, gran plato'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A gran prisa, gran vagar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Con ironía se aplica a quienes, pese a tener que hacer algo de inmediato, se lo toman con calma. Por tanto, aconseja no tomarse tiempo para reflexionar.	"
+<p>
+Significado: 'A gran prisa, gran vagar'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A gran salto, gran quebranto
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien consigue de improviso una posición elevada social o profesionalmente está muy expuesto a perderla de manera brusca y ocupar una posición inferior a la de la mayoría de la gente. La pérdida de una buena posición socioeconómica resulta más dolorosa cuanto más elevada es.	"
+<p>
+Significado: 'A gran salto, gran quebranto'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A gran seca, gran mojada
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Del mismo modo que suelen haber cambios climáticos muy bruscos, a un período difícil sigue normalmente otro más favorable, de manera que no hay que desesperarse. Se emplea principalmente cuando lleva mucho tiempo sin llover o, en sentido general, para señalar que no hay que desanimarse si se está pasando por un mal momento, pues seguramente vendrán tiempos mejores. El refrán se traslada del dominio meteorológico al moral, pierde el sentido no idiomático y adquiere un sentido idiomático.	"
+<p>
+Significado: 'A gran seca, gran mojada'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A gran subida, gran caída
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Puede suceder que algunos alcancen con rapidez una posición elevada y que la suerte cambie de tal modo que se quede en una posición muy inferior.	"
+<p>
+Significado: 'A gran subida, gran caída'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A grandes males, grandes remedios
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Ante un problema grave, no hay que temer recurrir a medios enérgicos para encontrar la solución.	"
+<p>
+Significado: 'A grandes males, grandes remedios'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la bestia cargada el sobornal la mata
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Igual que la resistencia de un animal de carga como la mula tiene un límite, hay que medir las fuerzas propias o ajenas para no excederse y echarlo todo a perder.	"
+La respuesta debe ser un texto en español, con el formato:
+Significado: '<texto entre comillas>'
+Refrán: A la bestia cargada el sobornal la mata
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la cama no te irás sin saber una cosa más
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cada día se aprende algo nuevo, por poco que sea.	"
+La respuesta debe ser un texto en español, con el formato:
+Significado: '<texto entre comillas>'
+Refrán: A la cama no te irás sin saber una cosa más
+
+
+### Hints:
+
+* El refran es de origen popular.
+* El significado del refrán es un proverbio.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la corta o a la larga, el tiempo todo lo alcanza
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Lo que ha de suceder tiene su momento, unas veces inmediato, otras demorado.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El significado de una paremia es la expresión que se obtiene al sustituir una palabra por otra que tiene el mismo sonido pero distinta significación.
+* Un refrán es una frase o dicho popular, generalmente de origen antiguo y de carácter moralizante.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la fuerza ahorcan
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En ocasiones, se presenta el trabajo o ciertas exigencias como ineludibles. Se emplea cuando alguien ha de hacer una cosa en contra de su voluntad y no queda más remedio que aceptarlo con resignación.	"
+La respuesta debe ser un texto en español, con el formato indicado anteriormente.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura de estilo que consiste en la repetición de dos o más palabras o frases idénticas o similares, pero con distinto sentido.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la larga el galgo a la liebre mata
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Con constancia y tenacidad, se consigue lo que nos proponemos, se vencen las dificultades. También puede significar que, por lo general, el más fuerte sale vencedor; en este caso, la paremia se basa en la velocidad que alcanza el galgo como perro de caza para indicar que con el tiempo la superioridad logra su propósito.	"
+La respuesta debe ser un texto en español, con el formato indicado.
+
+
+### Hints:
+
+* El significado de una paremia o refrán es su sentido literal.
+* La traducción de un refran no es necesaria.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la luz de la vela, no hay mujer fea
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Con luz escasa no se aprecian las faltas, en este caso de quien no es agraciado físicamente.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* <https://es.wikipedia.org/wiki/Refranero>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la mujer y al mar has de respetar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se recomienda prudencia ante la potencia del mar a quienes navegan en él, al tiempo que encarece el  respeto que se debe sentir por la mujer.	"
+La respuesta debe ser un texto en español, con el formato indicado.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura de estilo que consiste en la asociación de dos conceptos o ideas diferentes.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la noche, arreboles; a la mañana habrá soles
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recoge una constatación meteorológica basada en la observación diaria que anuncia un día soleado.	"
+La respuesta correcta es:
+
+Significado: 'A la noche, arreboles; a la mañana habrá soles'
+Refrán: A la noche, arreboles; a la mañana habrá soles
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la olla que hierve, ninguna mosca se atreve
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Da a entender que nadie se arroja a un riesgo conocido.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El significado de una paremia o refrán es el sentido que tiene el texto entre comillas.
+* La respuesta debe ser un texto en español.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la red del que duerme, los peces vienen
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Da a entender que la fortuna sonríe en ocasiones a quien no se esfuerza.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El significado de una paremia o refrán es el sentido que se le da a las palabras que lo componen.
+* La red del que duerme, los peces vienen es un refrán que significa que cuando uno está dormido, los enemigos aprovechan la ocasión para atacarlo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la tercera va la vencida
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se emplea esta frase cuando no se consigue al primer intento el fin que pretendemos, sino tras repetirlos con mayor ahinco. Se dice tanto después del segundo intento como del tercero: en el primer caso, para expresar el deseo de que se haga realidad aquello que se está intentando; en el segundo caso, para constatar que se ha conseguido el fin deseado al tercer intento. Puede significar también que es prudente desistir de hacerlo después de tres tentativas infructuosas.	"
+La respuesta debe ser un texto en español, con el formato indicado.
+
+
+### Hints:
+
+* <https://es.wikipedia.org/wiki/Paremia>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la vejez, aladares de pez
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Critica al anciano que se tiñe las canas para parecer más joven. En sentido más genérico, critica a quien trata de negar lo que resulta natural por el paso de los años.	"
+<p>
+Significado: 'A la vejez, aladares de pez'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la vejez y el hecho de que los ancianos no pueden comer como lo hacen los jóvenes.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A la vejez, viruelas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se emplea cuando sobreviene algo fuera de ocasión o tiempo. Se dice en tono irónico cuando alguien de cierta edad actúa según es costumbre en la juventud, incluido en el amor. Se refiere especialmente a quien se resiste a envejecer y lo demuestra haciendo conquistas amorosas. En consecuencia, se aplicaría a unviejo verdeo a quien tiene un comportamiento impropio de una persona de cierta edad. En sentido muy general, se emplea si ocurre algo a destiempo.	"
+<p>
+Significado: 'A la vejez, viruelas'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A las diez en la cama estés
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se recomienda acostarse temprano, con el objeto de poder levantarse al día siguiente pronto y descansado para trabajar y aprovechar el día.	"
+<p>
+Significado: 'A las diez en la cama estés'</p>
+
+
+### Hints:
+
+* <p>El refrán es una expresión popular que tiene un significado especial.</p>
+* <p>Un refrán es una frase o expresión que se utiliza para dar consejos, explicar una situación o simplemente para divertirse.</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A lo hecho, no hay remedio; y, a lo por hacer, consejo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán, de estructura plurimembre, contiene dos mensajes sentenciosos: por un lado, hay que aceptar las equivocaciones y asumirlas con fortaleza de ánimo; por otro, se recomienda preguntar y buscar consejo antes de tomar una decisión irremediable.	"
+| Significado | Refrán |
+| -------- | ------ |
+| 1. | A lo hecho, no hay remedio; y, a lo por hacer, consejo |
+| 2. | A lo hecho, no hay remedio; y, a lo por hacer, consejo |
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A lo hecho, pecho
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Si la situación es irremediable, nada se puede cambiar y sólo queda tener fortaleza y valor para afrontarla. Este refrán se aplica en especial cuando hemos cometido un error o nos sobreviene algo no deseado pero, en esos casos, de nada sirve lamentarse, sino reaccionar.	"
+<p>
+Significado: 'A lo hecho, pecho'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A lo más oscuro amanece Dios
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se recomienda paciencia cuando se tiene alguna preocupación, porque puede aparecer la solución sin que uno se dé cuenta.	"
+<p>
+Significado: 'A lo más oscuro amanece Dios'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A lo que está de moda, todo el mundo se acomoda
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Da a entender la facilidad con la gente acepta una tendencia o una opinión por el simple hecho de estar en boga.	"
+La respuesta correcta es:
+
+Significado: 'A lo que está de moda, todo el mundo se acomoda'
+
+
+### Hints:
+
+  * El refran es un dicho popular.
+  * Un refrán es una expresión o frase corta que contiene un sentido profundo y que tiene un significado especial.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A los amigos, hay que cuidarlos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Para poder acudir a los amigos en busca de ayuda de forma espontánea y regular, hay que mantener con ellos un trato frecuente y obsequiarles con atenciones.	"
+<p>
+Significado: 'A los amigos, hay que cuidarlos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A los osados, favorece la fortuna
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Si bien muchas paremias aconsejan prudencia, en ocasiones se consigue mejor algo cuando se hace con decisión y arrojo.	"
+<p>
+Significado: 'A los osados, favorece la fortuna'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A luengas vías, luengas mentiras
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán recomienda prudencia ante lo que dicen desconocidos procedentes de tierras lejanas, porque, al resultar difícill comprobar lo que aseguran, pueden mentir con suma facilidad; por eso, no hemos de dar crédito a lo que nos cuenten quienes vienen de lejos, los forasteros.	"
+<p>
+Significado: 'A luengas vías, luengas mentiras'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A mal tiempo, buena cara
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se puede emplear en sentido literal (el tiempo atmosférico) y metafórico. Referido al físico humano, aconseja no hacer notar los gestos que pueden reflejar nuestra decepción ante cualquier suceso. Referido al comportamiento, recomienda mantener el temple y no desanimarse cuando se presentan contrariedades y momentos difíciles, pues, pese a no poder cambiar la situación, se puede cambiar la actitud.	"
+<p>
+Significado: 'A mal tiempo, buena cara'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A mocedad ociosa, vejez trabajosa
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Hay que aprovechar la juventud para trabajar los años en que tenemos energías, porque de otro modo cuando nos hagamos mayores pasaremos apuros o trataremos -con frecuencia, en vano- de recuperar las oportunidades perdidas.	"
+La respuesta correcta es:
+
+Significado: 'A mocedad ociosa, vejez trabajosa'
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado profundo.
+* El refran es una expresión de sentido común.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A moro viejo, no aprendas algarabía
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No hemos de pretender enseñar a quien es maestro en la materia.	"
+<p>
+Significado: 'A moro viejo, no aprendas algarabía'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A mucha cortesía, mayor cuidado
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aconseja desconfiar de quienes emplean modales excesivamente amables o se deshacen en elogios y obsequios, porque seguramente quieren burlarse o aprovecharse.	"
+<p>
+Significado: 'A mucha cortesía, mayor cuidado'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A muertos y a idos, no hay amigos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La muerte o la ausencia de una persona pueden enfriar la amistad, hasta el punto de olvidar lo que su vínculo obligaba.	"
+<p>
+Significado: 'A muertos y a idos, no hay amigos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A nadie le amarga un dulce
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No se rechaza algo agradable o beneficioso, por poco que sea.	"
+<p>
+Significado: 'A nadie le amarga un dulce'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A nadie le parecieron sus hijos feos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El amor hacer mirar a las personas con otros ojos y, para los padres, sus hijos no tienen defectos ni son feos.	"
+<p>
+Significado: 'A nadie le parecerán sus hijos feos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A nuevos tiempos, nuevas costumbres
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Hay que ser comprensivo o tolerante con los cambios y procurar adaptarse a ellos.	"
+<p>
+Significado: 'A nuevos tiempos, nuevas costumbres'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A otro perro con ese hueso
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se emplea para rechazar un abuso o un ofrecimiento engañoso o impertinente. Quien lo dice da a entender que no acepta pasar por tonto.	"
+<p>
+Significado: 'A otro perro con ese hueso'
+</p>
+
+
+### Explanation:
+
+El refrán se refiere a la frase de un personaje que no puede entender el significado de una expresión.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A padre guardador, hijo gastador
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La mejora económica y social que una generación ha logrado con esfuerzo, sitúa en mejor posición a la siguiente, pero la posterior no siempre mantiene el hábito de esfuerzo y economía con que se alcanzó. Quienes han trabajado mucho para conseguir algo no gastan a la ligera como los que lo han recibido por la generosidad y el sacrificio de sus progenitores.	"
+<p>
+Significado: 'A padre guardador, hijo gastador'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A pájaro durmiente, tarde le entra el cebo en el vientre
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Critica a los que durmiendo más de lo prudente se arriesgan a no conseguir el sustento diario. En un sentido más amplio, reprende a los perezosos cuya desidia los priva de lo que podrían alcanzar con esfuerzo y diligencia.	"
+<p>
+Significado: 'A pájaro durmiente, tarde le entra el cebo en el vientre'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A palabras necias, oídos sordos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a la indiferencia ante la necedad de los otros. Aconseja no prestar atención ni molestarse por comentarios ajenos e impertinentes que no buscan nuestro bien ni constituyen observaciones dignas de tener en cuenta.	"
+<p>
+Significado: 'A palabras necias, oídos sordos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A pan de quince días, hambre de tres semanas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Ante una dificultad o necesidad extrema, hay que aceptar lo que se ofrece.	"
+<p>
+Significado: 'A pan de quince días, hambre de tres semanas'
+</p>
+
+
+### Explanation:
+
+El refrán se refiere a la necesidad de tener reservas para cuando las circunstancias cambien.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A pan duro, diente agudo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En sentido recto, se recomienda tener una buena dentadura para poder comer todo tipo de alimentos, en especial aquellos que están duros y que no queda más remedio que tomar para saciar nuestra hambre. En sentido general, enseña a adaptar los medios a la tarea que se va realizar, en función de la dificultad de lo que se va a intentar hacer. Se recomienda decisión y esfuerzo para superar los obstáculos.	"
+<p>
+Significado: 'A pan duro, diente agudo'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido profundo.
+* Un refrán es una frase o dicho popular que contiene un sentido profundo y que se usa para dar consejos, explicar situaciones o simplemente para divertirse.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A perro flaco, todo son pulgas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se aplica este refrán cuando la desgracia se ceba en los desvalidos, los pobres, los débiles, los que están abatidos.	"
+<p>
+Significado: 'A perro flaco, todo son pulgas'
+</p>
+
+
+### Hints:
+
+* <p>
+  El significado de un refrán es una expresión que tiene un sentido profundo y que se utiliza para explicar o dar consejos.
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A perro viejo no hay tus tus
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Resulta sumamente difícil engañar con halagos u obsequios a la persona mayor y experimentada, representada en este refrán por el perro viejo.	"
+<p>
+Significado: 'A perro viejo no hay tus tus'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A pillo, pillo y medio
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando alguien actúa con picardía o malevolencia, hay que emplear sus mismas armas, e incluso acrecentadas, con el objeto de tratar a un pícaro o a un malvado como se merece.	"
+<p>
+Significado: 'A pillo, pillo y medio'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la forma de hacer una tortilla.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A poca barba, poca vergüenza
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Advierte que regularmente la juventud hace a los hombres atrevidos.	"
+<p>
+Significado: 'A poca barba, poca vergüenza'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A poco caudal, poca ganancia
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Señala la correspondencia inexistente entre los fines y los medios: una escasa inversión suele acarrear poco beneficio.	"
+<p>
+Significado: 'A poco caudal, poca ganancia'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A poco viento, remos sin cuento
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El esfuerzo ha de suplir las carencias.	"
+<p>
+Significado: 'A poco viento, remos sin cuento'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido profundo y que se utiliza para explicar o dar consejos.
+* Un refrán es una frase o dicho popular, generalmente de origen antiguo, que contiene un sentido profundo y que se utiliza para explicar o dar consejos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A presurosa demanda, espaciosa respuesta
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Si una persona apremia a otra en una petición, hay que actuar con discernimiento y no precipitadamente.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura de estilo que consiste en la repetición de dos o más palabras, frases o grupos de palabras que tienen el mismo significado.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien anda con miel, miel se le pega
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a lo difícil que resulta comportarse con rectitud en la gestión de bienes o intereses ajenos; pues, es habitual que su administrador obtenga algún beneficio personal.	"
+<p>
+Significado: 'A quien anda con miel, miel se le pega'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien cuece y amasa, de todo le pasa
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Denota que en los trabajos pueden surgir problemas e inconvenientes, pero resulta habitual sufrir o padecer ciertas incomodidades inevitables cuando se tiene una ocupación.	"
+El significado del refrán es:
+
+A quien cuece y amasa, de todo le pasa.
+
+
+### Hints:
+
+* El refrán se refiere a la persona que hace muchas cosas y no se dedica a ninguna en particular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien dan, no escoge
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	A veces hemos de limitarnos a aceptar lo que la vida o las personas nos den, ya que, al tratarse de un beneficio, debemos mostrarnos satisfechos sin poner reparos a lo que recibimos.	"
+<p>
+Significado: 'A quien dan, no escoge'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien dices tu secreto, das tu libertad y estás sujeto
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán alude a la conveniencia de no difundir algunas cuestiones íntimas, pues revelarlas entraña riesgos y quita una libertad que no se recupera.	"
+<p>
+Significado: 'A quien dices tu secreto, das tu libertad y estás sujeto'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien Dios no le da hijos, el diablo le da sobrinos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quienes no son padres, a veces tienen que asumir preocupaciones, atenciones o gastos por causa de otros vínculos familiares. En un sentido más amplio, da a entender que en ocasiones sobrevienen cuidados por causas ajenas a quien no los tiene por su propia situación.	"
+El significado del refrán es:
+
+* El que no tiene hijos, tiene sobrinos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien Dios quiere bien, la perra le pare lechones
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se aplica, en sentido figurado, a quien tiene buena suerte, a quien consigue beneficios sin mérito suyo, sin necesidad de hacer algo.	"
+<p>
+Significado: 'A quien Dios quiere bien, la perra le pare lechones'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien Dios se la dé, San Pedro se la bendiga
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Refrán creado a partir del sentido literal de que, cuando Dios manda algo, a San Pedro, su apóstol, sólo le queda darle la bendición, o sea, aceptarlo. El refrán denota que, en ocasiones, sólo cabe aceptar el buen o el mal éxito de un asunto con resignación y conformidad, por el giro que toman las circunstancias.	"
+<p>
+Significado: 'A quien Dios se la dé, San Pedro se la bendiga'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien labora, Dios lo mejora
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Dios ayuda y colma a quienes se esfuerzan por conseguir algo.	"
+<p>
+Significado: 'A quien labora, Dios lo mejora'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien le dan el pie, se toma la mano
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a quien se aprovecha de la bondad de uno, por lo que recomienda no confiar en cualquier persona.	"
+<p>
+Significado: 'A quien le dan el pie, se toma la mano'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien lo quiere celeste, que le cueste
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando se anhela algo, cuando se tiene algún capricho, hay que disponerse a trabajar y sacrificarse para conseguirlo, no debe quejarse por los gastos que puedan originarse ni por las molestias que puedan surgir. Se dice esta paremia con cierta ironía.	"
+La respuesta correcta es:
+
+Significado: 'A quien lo quiere celeste, que le cueste'
+
+
+### Hints:
+
+  * El refrán se refiere a la persona que tiene un interés especial en algo.
+  * El significado de la paremia es el contrario del significado del refrán."
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien madruga, Dios le ayuda
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda ser diligente para para tener éxito en las pretensiones, en el trabajo.	"
+<p>
+Significado: 'A quien madruga, Dios le ayuda'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien no le sobra pan, no críe can
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En sentido recto, señala que tener un perro, sea por su utilidad, sea por capricho, implica gastos y cuidados que hay que tener en cuenta. En sentido figurado, recomienda ajustarse a las ganancias y no contraer deudas por gastos excesivos.	"
+<p>
+Significado: 'A quien no le sobra pan, no críe can'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien no mata puerco, no le dan morcilla
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El beneficio llega a quien se esfuerza o colabora en una actividad.	"
+<p>
+Significado: 'A quien no mata puerco, no le dan morcilla'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A quien su mujer ayuda, camino ve de fortuna
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Valora positivamente la ayuda del marido a su mujer para el bienestar de la casa.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* <https://es.wikipedia.org/wiki/Paremia>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A raposo durmiente, no le amanece la gallina en el vientre
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El que se descuida en lo que le importa, no conseguirá sustento o beneficio.	"
+La respuesta debe ser un texto que contenga el significado del refrán y su origen.
+
+
+### Hints:
+
+* El refran es de origen español
+* El refran se puede encontrar en la Wikipedia en español
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A rey muerto, rey puesto
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Indica la prontitud con que se ocupan los puestos vacantes o, en general, a la rapidez con la que se suceden los cambios. Se emplea con frecuencia para afirmar que nadie es imprescindible y que se olvida pronto, ya sea en el trabajo o en el amor.	"
+<p>
+Significado: 'A rey muerto, rey puesto'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A río revuelto, ganancia de pescadores
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Del mismo modo que aparece más pesca cuando las aguas de un río se revuelven, en las situaciones confusas o cuando se producen cambios o desavenencias, hay quienes sacan beneficio aprovechando tales circunstancias.	"
+<p>
+Significado: 'A río revuelto, ganancia de pescadores'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A salvo está el que repica
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Resulta fácil recriminar a otro su comportamiento en acciones peligrosas, cuando él está en lugar seguro.	"
+<p>
+Significado: 'A salvo está el que repica'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A su tiempo maduran las brevas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No hay que precipitarse sino aguardar pacientemente el momento adecuado para actuar o conseguir algo.	"
+<p>
+Significado: 'A su tiempo maduran las brevas'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: A tal señor, tal honor
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Hay que dar a cada uno el trato que corresponde a su conducta, clase o rango.	"
+<p>
+Significado: 'A tal señor, tal honor'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Abogado joven, pleito perdido
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Para el buen desempeño de las profesiones resulta imprescindible o muy conveniente poseer cierta experiencia, con el fin de obtener el resultado apetecido. De ese modo se previenen los riesgos y se evitan los fracasos.	"
+<p>
+Significado: 'Abogado joven, pleito perdido'
+</p>
+
+
+### Hints:
+
+* <p>
+  El significado de un refrán es una expresión que tiene un sentido especial.
+</p>
+
+* <p>
+  Un refrán es una frase o expresión popular, generalmente de origen oral, que se ha hecho famosa por su carga simbólica y su uso en la vida cotidiana.
+</p>
+
+* <p>
+  El significado de un refrán es una expresión que tiene un sentido especial.
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Abogado, juez y doctor, cuanto más lejos mejor
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán recomienda alejarse de quienes ejercen la abogacía, la medicina y la justicia, porque no siempre tienen honorarios altos y no es raro que prolonguen su intervención para beneficio propio.	"
+La respuesta correcta es:
+
+Significado: 'Abogado, juez y doctor, cuanto más lejos mejor'
+
+
+### Hints:
+
+* El refrán se refiere a la profesión de abogado.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aborrece y serás aborrecido, quiere con amor de verdad y serás correspondido
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En función del comportamiento que tenga cada uno con los demás, así será tratado.	"
+El significado del refrán es:
+Aborrecer a alguien significa que te odiará. Si quieres que alguien te ame, tienes que amarlo primero.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Abril, aguas mil
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se trata de una constatación meteorológica. En España, sobre todo en la España seca, suele llover de manera especial en el mes de abril, que se sitúa en el centro de la primavera. En la primavera suele llover, y en algunas partes de manera especial en el mes de abril. Es un agua que llega sin turbulencia (además de la abundancia que indicamil). De ese modo es buena y no causa destrozos.	"
+<p>
+Significado: 'Abril, aguas mil'</p>
+
+
+### Hints:
+
+* <p>El refrán es una expresión popular que se utiliza para explicar un hecho o acontecimiento.</p>
+* <p>Un refrán es una frase o expresión que tiene un significado especial, generalmente de carácter moralizante.</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aceituna, una es oro; dos, plata, y la tercera, mata
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La recomendación de  comer con mesura las aceitunas para que no hagan daño lleva en un sentido más general a aconsejar ser moderados en todo, incluso en lo que es bueno.	"
+La respuesta correcta es:
+
+Significado: 'Aceituna, una es oro; dos, plata, y la tercera, mata'
+Refrán: Aceituna, una es oro; dos, plata, y la tercera, mata
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Acogí al ratón en mi agujero y volvióseme heredero
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Conviene desconfiar de quien sospechamos que con el tiempo puede abusar de nuestra confianza y convertirse en los amos.	"
+El significado del refrán es:
+
+- No hagas amistad con un enemigo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Acostarse temprano y levantarse temprano hacen al hombre sano
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Para aprovechar el tiempo, conviene acostarse temprano y de ese modo poder madrugar al día siguiente.	"
+El significado del refrán que aparece a continuación es:
+Significado: 'Acostarse temprano y levantarse temprano hacen al hombre sano'
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Adonde el corazón se inclina, el pie camina
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Con anhelo e insistencia nos dirigimos con frecuencia y de forma instintiva a los lugares en donde está nuestro afecto o placer o con la esperanza de conseguir algo más o menos interesante.	"
+El significado de la paremia o refrán es:
+
+Significado: 'Adonde el corazón se inclina, el pie camina'
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Afeites de mujer y cielo aborregado, duran lo que un nublado
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude al carácter efímero del tiempo y de los productos empleados por la mujer para embellecer o disimular alguna falta.	"
+<p>
+Significado: 'Afeites de mujer y cielo aborregado, duran lo que un nublado'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la duración de las cosas. 
+
+
+### Hints:
+
+* El significado del refrán es 'Afeites de mujer y cielo aborregado, duran lo que un nublado'
+* El significado del refrán es 'Afeites de mujer y cielo aborregado, duran lo que un nublado'"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Afición ciega razón
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El cariño perturba para decidir rectamente y puede llevar a  encubrir los defectos del amado o de lo que se ama.	"
+La respuesta correcta es:
+
+Significado: 'Afición ciega razón'
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* La cultura castellana es la cultura de España, en particular la de Castilla.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Afortunado en el juego, desgraciado en amores
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Como nadie lo tiene todo en la vida, se dice -o se aplica a sí mismo- al que la fortuna le sonríe excepto en asuntos amorosos.	"
+<p>
+Significado: 'Afortunado en el juego, desgraciado en amores'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agáchate y entrarás
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Para alcanzar un objetivo o conseguir el aprecio de los demás, es aconsejable mostrarse con humildad.	"
+El significado de la paremia o refrán es:
+
+<texto entre comillas>
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado profundo.
+* La paremia es una expresión que se compone de dos partes iguales, cada una con su propio significado.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agosto y septiembre, no duran siempre
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Agosto y septiembre son meses de abundancia porque es la época para la realizar la recolección  de las mieses y la vendimia. Sin embargo, el tiempo de abundancia se termina y siguen los meses de escasez, en los que la tierra está dormida por el frío. Por eso, conviene guardar para hacer frente a los meses del invierno. También puede referirse a losaños en los que las cosechas no se dan también como en otros. En sentido general, este refrán recomienda no confiarse pensando que siempre se va a gozar de holgura y bienestar.	"
+<p>
+Significado: 'Agosto y septiembre, no duran siempre'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agosto y vendimia no es cada día, y sí cada año; unos con ganancia y otros con daño
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La fortuna no suele aparecer con frecuencia y, si viene o parece que viene, unas veces lo hace mezclada con problemas, otras con alegrías, pero, por lo general, no como uno lo desearía. Por eso, recomienda la economía a quien vive expuesto a continuas contingencias, como les sucede a los campesinos con la recolección de los granos y de la uva, que  se hace sólo una vez al año.	"
+La respuesta es:
+
+Agosto y vendimia no es cada día, y sí cada año; unos con ganancia y otros con daño
+
+
+### Explanation:
+
+El refran es un tipo de frase que se usa para expresar una idea o concepto. En este caso el significado del refrán es:
+
+Agosto y vendimia no es cada día, y sí cada año; unos con ganancia y otros con daño
+
+Esto quiere decir que Agosto y la vendimia (cosecha de uvas) no son días fijos en el calendario, sino que se celebran cada año. Algunos años se obtienen buenos resultados, pero otros no.
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua corriente no mata a la gente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán explica el agua que se puede beber cuando se encuentra uno en el campo. El agua estancada no es aconsejable para beber, pues suele contaminarse, podrirse y llenarse de verdín. Por extensión, cabe referirse a la conveniencia de estar activo para el propio bienestar.	"
+El significado de la paremia o refrán es:
+
+Agua corriente no mata a la gente
+
+
+### Hints:
+
+* Agua corriente no mata a la gente
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua de mayo, pan para todo el año
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán alude a la conveniencia de la lluvia en mayo, pues los campos y, en especial los cereales, se ven beneficiados con la lluvia en ese mes. Más tarde, por el calor, la lluvia es dañina. Es el caso de la lluvia por San Juan (24 de junio), perjudicial para las vides y para el trigo.	"
+<p>
+Significado: 'Agua de mayo, pan para todo el año' significa que si se tiene un buen inicio en la vida, se puede tener éxito en cualquier cosa.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua estancada, agua envenenada
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Advierte de lo peligroso que puede ser tomar agua que no fluye. En sentido general, critica al ocioso, al holgazán, por mantenerse inmóvil como el agua estancada.	"
+<p>
+Significado: 'Agua estancada, agua envenenada'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua fría y pan caliente mata la gente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El refranero previene contra dos alimentos que considera nocivos para la salud en función de su temperatura, pese a ser gratos al paladar: el agua, si está fría, y el pan, caliente. Suelen causar daño a los dientes y, además, el pan caliente es indigesto.	"
+La respuesta debe ser un texto en español, con el formato indicado.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura de estilo que consiste en la asociación de dos conceptos opuestos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua pasada no mueve molino
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La imagen de la fuerza del agua a su paso por el lugar adecuado para ser utilizada representa la oportunidad que se escapa. De nada sirve pasar el tiempo lamentando no haber aprovechado una oportunidad que ya no está a nuestro alcance. Además de dedicarse como consejo para dejar de lamentarse por una contrariedad o para olvidar alguna ofensa, se puede emplear en ocasiones a modo de resignación.	"
+<p>
+Significado: 'Agua pasada no mueve molino'
+</p>
+
+
+### Hints:
+
+* <p>
+  Agua pasada no mueve molino
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua que corre nunca mal coge
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El abastecimiento de agua para consumo humano conviene que provenga de manantiales o corrientes de agua para evitar que se estanque, pierda pureza o resulte perjudicial para la salud. En sentido general, recomienda la actividad para prosperar.	"
+<p>
+Significado: 'Agua que corre nunca mal coge'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua que no has de beber, déjala correr
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando algo no es de nuestra incumbencia, lo mejor es no inmiscuirse y dejar que las cosas sigan su curso natural.	"
+La respuesta correcta es:
+
+Significado: 'Agua que no has de beber, déjala correr'
+
+
+### Hints:
+
+  * <texto entre comillas> es el texto del refrán.
+  * Significado: es la traducción al español del significado del refrán.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Agua vertida, no toda cogida
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Enseña que no se puede remediar todo el daño causado por alguna indiscreción, en especial cuando la maledicencia deja mancillado el buen nombre de alguien, porque nunca la reparación del honor resarce del mal hecho.	"
+<p>
+Significado: 'Agua vertida, no toda cogida'
+</p>
+
+
+### Explanation:
+
+El refrán se refiere a la vida y a la muerte. La vida es un ciclo continuo de crecimiento y decadencia. El agua que cae del cielo es el agua de lluvia, que es la vida misma. Pero no todo el agua caída puede ser recogida, porque la vida tiene su fin.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al amigo y al caballo, no cansallo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Del mismo modo que no se debe forzar el caballo sin necesidad con la espuela ni con el bocado, no hay que importunar a los amigos ni abusar de su confianza, porque podemos cansarlos al menoscabar sus fuerzas y alterar su ritmo de vida, lo que puede hacer que dejen de atendernos.	"
+El significado de la paremia o refrán es:
+
+Al amigo y al caballo, no cansallo
+
+
+### Hints:
+
+* El refran es una frase que tiene un significado especial.
+* La paremia es una figura retórica en la que se comparan dos cosas.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al amigo, con su vicio
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Hemos de aceptar a los amigos como son, aunque tengan algún defecto. Debemos ser comprensivos con sus defectos y no hay que estimar a nuestros amigos sólo por el beneficio que nos proporcionan.	"
+<p>
+Significado: 'Al amigo, con su vicio'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al arbolito, desde chiquito
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se debe vigilar y corregir a los hijos desde pequeños puesto que, de lo contrario, después será tarde iniciar su educación y muy difícil cambiar su inclinación.	"
+<p>
+Significado: 'Al arbolito, desde chiquito'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una frase que tiene un significado especial.
+* Un refrán puede ser una expresión popular o proverbio.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al ausente, hincarle el diente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Resulta habitual criticar a alguien cuando no se encuentra presente.	"
+<p>
+Significado: 'Al ausente, hincarle el diente'
+</p>
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* El significado de un refrán puede ser literal o figurativo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al bosque no vaya quien de las hojas miedo haya
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se recomienda huir de las situaciones que pueden causar temor o perjuicio.	"
+El significado del refrán es:
+No se aventure en lo desconocido.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al buen callar llaman Sancho
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aconseja la prudente moderación al hablar.	"
+<p>
+Significado: 'Al buen callar llaman Sancho'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al buen día, mételo en casa
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No es aconsejable desperdiciar las buenas ocasiones cuando aparecen.	"
+El significado de la paremia o refrán es:
+
+Al buen día, mételo en casa
+
+
+### Hints:
+
+* <texto entre comillas> = Significado
+* Al buen día, mételo en casa = Refrán"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al buen pagador no le duelen prendas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Explica que quien desea cumplir con lo que debe, no le importa proporcionar alguna garantía de ello.	"
+El significado de la paremia o refrán es:
+Al buen pagador no le duelen prendas.
+
+
+### Hints:
+
+* <texto entre comillas>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al buen segador, nunca se le olvida la hoz
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien es bueno en su oficio sabe el instrumento que debe utilizar y nunca olvida nada.	"
+El significado del refrán es:
+Al buen segador, nunca se le olvida la hoz.
+
+
+### Explanation:
+
+El refrán significa que alguien que hace algo bien nunca lo olvida.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al buey por el asta, y al hombre por la palabra
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Señala la obligación que tiene el hombre de cumplir su palabra y el buey, uncido por el cuerno, de tirar o arar. También se emplea para indicar que se conoce al buey y al hombre por sus respectivos atributos.	"
+El significado del refrán es:
+Al buey por el asta, y al hombre por la palabra
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al catarro, con el jarro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a las propiedades curativas del vino. Recomienda tomar vino para curar el resfriado.	"
+<p>
+Significado: 'Al catarro, con el jarro'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al dolor de cabeza, el comer le endereza
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Uno de los síntomas del hambre puede ser el dolor de cabeza, que se alivia tomando alimento. Se aplica también a quien alivia sus preocupaciones gracias a que posee una buena situación económica.	"
+El significado de la paremia o refrán es:
+Al dolor de cabeza, el comer le endereza
+
+
+### Hints:
+
+* El significado de una paremia o refrán es un dicho que tiene un significado especial.
+* La paremia o refrán se usa para expresar una idea o concepto.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al enemigo, ni agua
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aconseja no ser benévolo con quien se muestra adverso.	"
+<p>
+Significado: 'Al enemigo, ni agua'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al escarabajo, sus hijos le parecen granos de oro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando se quiere a alguien, el amor oculta sus defectos, pasa por alto sus imperfecciones e, incluso, hace que parezcan hermosas. Se aplica también para denotar que el cariño por alguien puede hacer que sólo veamos sus virtudes.	"
+El significado del refrán es:
+Al escarabajo, sus hijos le parecen granos de oro
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al final todo se sabe
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Es inútil encubrir la verdad.	"
+<p>
+  <strong>Significado:</strong><br/>
+  <em>El que no tiene casa, tiene su madre.</em>
+  <br/>
+  <strong>Refrán:</strong><br/>
+  Al final todo se sabe.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al freír será el reír
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Señala que las cosas tienen su precio y sus consecuencias, por lo que se debe obrar con sensatez y tino. Se aplica este refrán para recriminar tanto a quienes gastan con exceso en algo que les reporta placer como a quienes dan por seguro algo ilusorio o a quienes obran sin previsión.	"
+El significado de la paremia o refrán es:
+
+<texto entre comillas>
+
+
+### Hints:
+
+* El significado de una paremia o refrán es un dicho que tiene un sentido profundo.
+* La cultura castellana es muy rica en dichos y refranes, algunos de ellos son muy conocidos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al gallo que canta, le aprietan la garganta
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Advierte del daño que alguien puede ocasionar si no es capaz de guardar un secreto.	"
+El significado del refrán es:
+
+Al gallo que canta, le aprietan la garganta
+
+
+### Explanation:
+
+Este refrán se refiere a un hombre que no puede mantener su posición de poder.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al hierro candente, batirlo de repente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Conviene hacer las cosas a su tiempo, cuando se presenta la ocasión, para que resulten provechosas.	"
+El significado de la paremia o refrán es:
+
+Al hierro candente, batirlo de repente
+
+
+### Hints:
+
+* El refran es una expresión que tiene un significado especial.
+* La paremia es una expresión que se compone de dos partes iguales.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al hombre bueno no le busques abolengo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La bondad causa honra y confiere nobleza, no los apellidos heredados.	"
+El significado de la paremia o refrán es:
+Al hombre bueno no le busques abolengo
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al hombre vergonzoso el diablo le llevó a palacio
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Para frecuentar sitios de calidad hay que ser sociable e incluso desenvuelto, con el fin de obtener beneficio de quienes se mueven en esos ambientes. Alude a las oportunidades de promoción que se desaprovechan por timidez.	"
+El significado del refrán es: 'Al hombre vergonzoso el diablo le llevó a palacio'
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al hombre viejo, múdale de tierra y dará el pellejo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Las personas mayores están acostumbradas a un clima, a su casa y a sus hábitos, por lo que llevarlos a otro lugar les afecta bastante, incluso a veces puede costarles la vida.	"
+El significado del refrán es:
+Al hombre viejo, múdale de tierra y dará el pellejo
+
+
+### Explanation:
+
+El refrán significa que al hombre viejo le conviene irse a la tierra.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al loco y al aire, darle calle
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda evitar contiendas y discusiones con personas de genio violento e incapaces de razonar, cuando resulta difícil hacerles frente.	"
+El significado de la paremia o refrán es:
+Al loco y al aire, darle calle
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* La paremia es una expresión en la cual se usan dos palabras de significados opuestos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al más ruin puerco, la mejor bellota
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se aplica cuando se ve favorecido por la fortuna quien menos lo merece.	"
+El significado de la paremia o refrán es:
+
+Al más ruin puerco, la mejor bellota
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura retórica en la que se comparan dos cosas de manera similar.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al médico, confesor y letrado, hablarles claro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda decir la verdad a quienes nos han de aconsejar y ayudar.	"
+La respuesta correcta es:
+
+Significado: 'Al médico, confesor y letrado, hablarles claro'
+
+
+### Hints:
+
+  * El refran es un refrán castellano.
+  * El significado de la paremia o refrán es el siguiente:
+    * Al médico, confesor y letrado, hablarles claro
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al mejor cazador, se le va la liebre
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Todos pueden tener algún descuido, incluso los más expertos en la materia en cuestión.	"
+El significado del refrán es:
+Al mejor cazador, se le va la liebre
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado profundo.
+* El significado de un dicho popular puede ser muy complejo y no siempre es obvio.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al miedoso, los dedos se le antojan huéspedes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	A quien le falta fortaleza de ánimo, se preocupa o incomoda por lo más inofensivo.	"
+El significado del refrán es:
+Al miedoso, los dedos se le antojan huéspedes
+
+
+### Expectation:
+
+El significado de un refrán o paremia es una expresión que tiene un sentido profundo y que puede ser interpretada en varias maneras.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al niño, mientras crece, y al enfermo, mientras adolece
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Denota el cuidado que se debe tener con los niños y los ancianos.	"
+La respuesta correcta es:
+
+Significado: 'Al niño, mientras crece, y al enfermo, mientras adolece'
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al pajarillo que se ha de perder, alillas le han de nacer
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Manifiesta que, cuando algo ha de suceder, las cosas se disponen para ello y nada se puede hacer para evitarlo.	"
+La respuesta correcta es:
+
+El significado del refrán es: ""Al pájaro que se ha de perder, aliles le han de nacer""
+
+
+### Hints:
+
+  * El refran es un dicho popular.
+  * El refran es una expresión que tiene un significado especial.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al pan, pan, y al vino, vino
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se dice cuando se habla o se debe hablar con sinceridad, diciendo lo que sea llanamente y sin rodeos.	"
+<p>
+Significado: 'Al pan, pan, y al vino, vino'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al perro que duerme, no lo despiertes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No es conveniente abordar un asunto que puede traernos problemas.	"
+<p>
+Significado: 'Al perro que duerme, no lo despiertes'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que de ajeno se viste, en la calle le desnudan
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien se atribuye lo que no le pertenece se expone a verse despojado en el momento menos pensado. Este refrán se aplica también a los jactanciosos que presumen de méritos que no poseen.	"
+La respuesta correcta es:
+
+El significado del refrán es: ""Al que de ajeno se viste, en la calle le desnudan""
+
+
+### Hints:
+
+  * El refrán tiene un significado relacionado con el tema de la cultura castellana.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que le pique, que se rasque
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recrimina a quien se siente afectado por alguna crítica lanzada, a su parecer, contra él.	"
+El significado de la paremia o refrán es:
+Al que le pique, que se rasque
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que mal vive, el miedo le sigue
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a la inquietud que invade a quien ha obrado mal , por lo que teme el castigo correspondiente.	"
+El significado de la paremia o refrán es:
+Al que mal vive, el miedo le sigue
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que no está hecho a bragas, las costuras le hacen llagas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien no está familiarizado a refinamientos ni lujos no sabe apreciarlos e, incluso, llegan a molestarle los detalles más insignificantes. En un sentido más amplio, este refrán alude a la repugnancia y dificultad de quien no está acostumbrado a algunas cosas ni enseñado para hacerlo y se queja por ello.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* <https://es.wikipedia.org/wiki/Paremia>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que no quiere caldo, dos tazas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Resulta conveniente contentarse con aceptar las cosas como vienen, porque, de lo contrario, se corre el riesgo de recibir lo que no se desea, pero en una cantidad mayor o duplicada.	"
+<p>
+Significado: 'Al que no quiere caldo, dos tazas'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que quiere bailar, poco son es menester
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien tiene una inclinación fácilmente se dispone a dejarse llevar por su gusto.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El refran es una expresión popular de origen oral.
+* El significado de un refrán puede variar según la región o el contexto.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que tiene cama y duerme en el suelo, no hay que tenerle duelo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Quien pasa privaciones innecesarias por mera avaricia o por gusto, quien desprecia lo que tiene no merece compasión.	"
+El significado del refrán es:
+Al que tiene cama y duerme en el suelo, no hay que tenerle duelo.
+
+
+### Explanation:
+
+Este refrán se refiere a la persona que tiene una vida muy difícil pero que no lo lamenta porque sabe que puede ser peor.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al que yerra, perdónale una vez, mas no después
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aconseja ser tolerante con los errores de los demás solamente si no se producen de forma reiterada o abusiva.	"
+<p>
+Significado: 'Al que yerra, perdónale una vez, mas no después'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Al villano, dadle el dedo, y se tomará la mano
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Las personas ruines e incapaces de ser comedidas pueden abusar de la confianza que se les concede, por lo que se recomienda ser prudentes con la confianza que se da a algunas personas.	"
+El significado del refrán es:
+
+Al villano, dadle el dedo, y se tomará la mano
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* El refran es una expresión que se usa para dar consejos o explicar situaciones.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Alábate, pavo, que mañana te pelan
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Critica a quien, sin poseer mérito ninguno, presume de haber hecho o dicho algo importante.	"
+La respuesta correcta es:
+
+Significado: 'Alábate, pavo, que mañana te pelan'
+
+
+### Hints:
+
+* El refrán se refiere a la caza del pavo real.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Alcanza, quien no cansa
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Advierte que logra su propósito quien no ceja en su empeño. Del mismo modo, consigue su objetivo quien no importuna ni molesta.	"
+Alcanza, quien no cansa
+
+
+### Explanation:
+
+Este refrán se refiere a la importancia de perseverar en el trabajo.
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Alegrías y pesares te vendrán sin que los buscares
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Con frecuencia no dependen de uno la llegada de las desgracias o de la fortuna, pues unos y otros se alternan en la vida de los seres humanos sin que podamos evitarlo.	"
+<p>
+Significado: 'Alegrías y pesares te vendrán sin que los buscares'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Algo tendrá el agua cuando la bendicen
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Puede que de la antigua creencia de que el agua podía estar embrujada haya nacido la costumbre de bendecirla y así, librarla de los malos espíritus. Quizá esta creencia tenga su origen en las enfermedades que se contraían por beber agua contaminada. Del mismo modo, cuando se menciona a alguien o algo que no viene al caso o cuando se le atribuye alguna culpa sin causa apreciable, es señal de que existe alguna malicia. Se aplica también para justificar una alabanza o rechazar una censura.	"
+El significado del refrán es:
+Algo tendrá el agua cuando la bendicen
+
+
+### Hints:
+
+* El agua es un símbolo de pureza y santidad.
+* La bendición es una oración que se hace para que algo tenga éxito o prosperidad.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Algo va de Pedro a Pedro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Señala la diferencia que hay de un sujeto a otro.	"
+El significado de la paremia o refrán es:
+Algo va de Pedro a Pedro
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La paremia es una figura retórica en la que se comparan dos conceptos, objetos o personas.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Allá miran ojos donde quieren bien
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Nos ocupamos de lo que amamos. Dirigimos nuestra mirada y atención hacia aquello o hacia aquellas personas por las que sentimos interés y afecto.	"
+<p>
+Significado: 'Allá miran ojos donde quieren bien'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Allá va Sancho con su rocino
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude a la amistad que existe entre quienes están constantemente juntos. Se emplea irónicamente para referirse a dos personas inseparables, generalmente amigos, que van siempre juntos.	"
+<p>
+Significado: 'Allá va Sancho con su rocino'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Allá van leyes, do quieren reyes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En ocasiones, los poderosos acomodan e interpretan las leyes a su conveniencia, con el consiguiente quebranto.	"
+<p>
+Significado: 'Allá van leyes, do quieren reyes'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Allégate a los buenos y serás uno de ellos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda elegir buenas compañías porque el trato asemeja a las personas, por el beneficio y provecho que se obtiene de ellas, por el buen ejemplo que dan.	"
+El significado de la paremia o refrán es:
+
+Allégate a los buenos y serás uno de ellos
+
+
+### Hints:
+
+* <texto entre comillas>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amén, amén, al cielo llega
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En un sentido denotativo, este refrán trata de la eficacia de las oraciones o ruegos repetidos para obtener lo que se pide. En un sentido más general, afirma que la constancia en nuestros empeños es la clave para alcanzarlos.	"
+<p>
+Significado: 'Amén, amén, al cielo llega'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo de muchos, amigo de ninguno
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No es posible complacer y ser fiel a todos, porque de esa forma se acaba siendo desleal.	"
+<p>
+Significado: 'Amigo de muchos, amigo de ninguno'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la importancia que tiene el número de amigos que uno tiene. Si uno es amigo de muchos, entonces no puede ser amigo de nadie.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo de Santo Tomás, siempre tomas y nunca das
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se presenta a modo de juego de palabras el egoísmo de quien no está dispuesto a corresponder	"
+El significado de la paremia o refrán es:
+Amigo de Santo Tomás, siempre tomas y nunca das
+
+
+### Explanation:
+
+La paremia o refrán que aparece a continuación es una expresión popular que se utiliza para describir a alguien que siempre toma pero nunca da. La expresión se refiere a la figura de Santo Tomás, un personaje bíblico que era conocido por su avaricia y su afición a tomar sin dar nada a cambio.
+
+### Hints:
+
+* El significado de la paremia o refrán es: Amigo de Santo Tomás, siempre tomas y nunca das
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo del buen tiempo, múdase con el viento
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán alude a la inconsistencia de la falsa amistad. Quienes buscan únicamente las ventajas que nuestra amistad les pueda reportar, nos dejan de lado cuando no les somos útiles.	"
+El significado de la paremia o refrán es:
+Amigo del buen tiempo, múdase con el viento
+
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo leal y franco, mirlo blanco
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Resulta rara la verdadera amistad.	"
+<p>
+Significado: 'Amigo leal y franco, mirlo blanco'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo por interés no dura porque no lo es
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Resulta muy efímera la amistad basada solamente en una relación de interés.	"
+El significado de la paremia o refrán es:
+Amigo por interés no dura porque no lo es
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo que no da y cuchillo que no corta, si se pierden poco importa
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El egoísmo no cabe en la verdadera amistad, por lo que no importa perder la amistad de quien no está dispuesto a compartir lo suyo con los demás.	"
+El significado del refrán es:
+Amigo que no da y cuchillo que no corta, si se pierden poco importa
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo reconciliado, enemigo doblado
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán alude a la poca fiabilidad de la amistad reanudada, porque el rencor, el recelo y la desconfianza pueden persistir. La amistad de quien actuó mal con nosotros y se distanció no ofrece garantía de autenticidad, pues resulta difícil que cicatricen las ofensas y se olviden los gestos de enemistad.	"
+<p>
+Significado: 'Amigo reconciliado, enemigo doblado'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigo, viejo; tocino y vino, añejos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	De igual modo que el paso del tiempo mejora el vino y ayuda a curar el tocino, el tiempo da consistencia a la amistad por haber superado distintas circunstancias.	"
+<p>
+Significado: 'Amigo, viejo; tocino y vino, añejos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigos al prestar, enemigos al devolver
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando nos dan, ponemos buen gesto; pero, cuando toca devolver, ya es otra cosa. No es fácil conciliar amistad y cumplimiento de lo que obliga un préstamo. Por eso, advierte este refrán lo peligroso que resulta prestar a los amigos, porque pueden tardar en devolver lo prestado o directamente no hacerlo, tomando como excusa la amistad.	"
+<p>
+Significado: 'Amigos al prestar, enemigos al devolver'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigos y mulas, fallecen a las duras
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Las situaciones difíciles son la prueba de la amistad, porque en la necesidad a veces sucede que fallan aquellos con los que creíamos contar.	"
+<p>
+Significado: 'Amigos y mulas, fallecen a las duras'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amigos, hasta en el infierno
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Siempre es bueno contar en todas partes con quienes pueden ayudar amistosamente.	"
+<p>
+Significado: 'Amigos, hasta en el infierno'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amistad de yerno, sol de invierno
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Lo poco que calienta el sol invernal sirve para denotar que, entre suegros y yernos, suele haber una amistad tibia, de compromiso e, incluso, de escasa duración. Se ha fundado esta apreciación en el hecho de que hay matrimonios movidos por el interés material.	"
+<p>
+Significado: 'Amistad de yerno, sol de invierno'
+</p>
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* El refran es una expresión que se usa para dar consejos o explicar algo.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor con amor se paga
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El amor exige recíproca correspondencia, entrega y respeto mutuos. En ocasiones, se emplea como respuesta a quien recibe sorprendido o halagado una muestra de afecto. Puede decirlo también quien ha actuado movido por el afecto, o bien quien reclama una muestra del cariño manifestado verbalmente. A veces, se usa de forma irónica.	"
+<p>
+Significado: 'Amor con amor se paga'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor de niño, agua en cestillo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Advierte la inconstancia característica de la corta edad, en la que todo es cambio que pasa como el agua por un cesto. Alude a la poca confianza que se debe tener por el afecto de los niños, considerado de escasa consistencia. Sin embargo, ellos aman sin dobleces, con la inocencia propia de su edad. A veces se dice este refrán para denotar la inconsistencia de los amores de adolescentes.	"
+<p>
+Significado: 'Amor de niño, agua en cestillo'
+</p>
+
+
+### Explanation:
+
+El significado del refrán es:
+
+- Amar a un niño es como tener agua en una cesta.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor de padre, que todo lo demás es aire
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Solamente es seguro y constante el amor de los padres, por lo que se debe confiar en él.	"
+<p>
+Significado: 'Amor de padre, que todo lo demás es aire'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor loco, yo por vos y vos por otro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Alude al amor no correspondido	"
+El significado de la paremia o refrán es:
+Amor loco, yo por vos y vos por otro
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor trompero, cuantas veo, tantas quiero
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se refiere a quienes se enamoran con suma facilidad. En general, censura la inconstancia y volubilidad de los afectos humanos.	"
+<p>
+Significado: 'Amor trompero, cuantas veo, tantas quiero'</p>
+
+
+### Explanation:
+
+El refrán se refiere a la naturaleza de la pasión amorosa. El amor es un sentimiento que puede ser engañoso y que puede llevar al hombre a desear a muchas mujeres, pero no a satisfacer sus deseos.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor y celos, hermanos gemelos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Es raro que no coexistan el amor y los celos, pues los celos nacen del deseo de exclusividad ante la persona amada.	"
+<p>
+Significado: 'Amor y celos, hermanos gemelos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amor y dinero nunca fueron compañeros
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Cuando se quiere apasionadamente a alguien, es habitual que se produzcan abundantes gastos con el fin de obsequiarla y complacerla.	"
+<p>
+Significado: 'Amor y dinero nunca fueron compañeros'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amores nuevos olvidan viejos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Una nueva ilusión amorosa reduce o apaga un amor anterior.	"
+<p>
+Significado: 'Amores nuevos olvidan viejos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amores reñidos son los más queridos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La gradual confianza y las distintas maneras de actuar en las circunstancias que van compartiendo día a día los novios y los esposos dan como resultado que surja la discrepancia y hasta la discusión. Si la riña es manifestación de la sinceridad que entraña tan estrecha convivencia, puede cumplirse lo que asegura el refrán, pero el enfrentamiento continuado -que puede mostrar el verdadero carácter de cada uno- no favorece la armonía y la felicidad que ha de entrañar el matrimonio.	"
+<p>
+Significado: 'Amores reñidos son los más queridos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Amores, dolores y dineros no pueden estar secretos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Ninguna de las tres cosas pasa inadvertida, aunque se procure que así sea, en especial los excesos y gastos extraordinarios.	"
+El significado de la paremia o refrán es:
+Amores, dolores y dineros no pueden estar secretos
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Andar toda la noche y amanecer en la posada
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se aplica a quienes viajan de noche para evitar el calor del verano. Se emplea con cierta ironía para referirse a quienes se afanan mucho por algo y, sin embargo, no lo llevan a cabo, por no tener fuerza de voluntad.	"
+<p>
+Significado: 'Andar toda la noche y amanecer en la posada' es un refrán que significa 'perder el tiempo'.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ande yo caliente, y ríase la gente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se dice cuando uno prefiere su gusto o comodidad a someterse a la opinión de los demás o a los convencionalismos sociales. También se emplea para recomendar actuar rectamente y de acuerdo con la propia conciencia, sin tener en cuenta la opinión de los demás.	"
+<p>
+Significado: 'Ande yo caliente, y ríase la gente' es un refrán que significa que cuando uno se ríe, todos lo hacen.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Año bisiesto, año siniestro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Existe la creencia de que en los años bisiestos ocurren hechos funestos.	"
+<p>
+    <strong>Significado:</strong><br/>
+    <em>Año bisiesto, año siniestro</em>
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Año de brevas, nunca lo veas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Da a entender que el año abundante en brevas suele ser estéril en granos y frutos.	"
+<p>
+Significado: 'Año de brevas, nunca lo veas'
+</p>
+
+
+### Hints:
+
+* El refran es un tipo de frase popular que tiene un significado especial.
+* La cultura castellana es la cultura del pueblo español.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Año de heladas, año de parvas
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Las heladas en su tiempo favorecen más adelante las cosechas de cereales.	"
+<p>
+Significado: 'Año de heladas, año de parvas'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Año de nieves, año de bienes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	El año con mucha nieve es favorable para las buenas cosechas, porque, gracias a la nieve, la tierra labrada se mantiene húmeda y esponjosa para que los cereales crezcan debidamente. Por otra parte, la nieve nutre las corrientes de agua.	"
+<p>
+Significado: 'Año de nieves, año de bienes'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Año nuevo, vida nueva
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se cree que el simple cambio de año conlleva mejores expectativas. Se dice también al comenzar el año para manifestar el propósito -no siempre mantenido- de cambiar de costumbres o de otras cosas, tras hacer balance del anterior. Asimismo se dice como fórmula de saludo para manifiesta el deseo de que el cambio de año traiga mejores expectativas.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* El refrán se puede usar para explicar una situación o acontecimiento.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ante el vicio de pedir, la virtud de no dar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se emplea para rechazar una petición	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado especial.
+* La cultura castellana es el conjunto de costumbres, tradiciones y valores de la población española.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ante la duda, abstente
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Es preferible no tomar una decisión si no sabemos a ciencia cierta que nos conviene.	"
+<p>
+Significado: 'No hay mal que por bien no venga'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes de hacer nada, consúltalo con la almohada
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No es aconsejable tomar decisiones precipitadas, por lo que -al menos- resulta recomendable esperar al día siguiente antes de tomar una determinación, pues el descanso que proporciona el sueño otorga más clarividencia a la mente. También es una manera de concederse un tiempo para meditar sobre lo que conviene hacer.	"
+<p>
+Significado: 'Ante todo, consulta con la almoheda'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes de que acabes, no te alabes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda prudencia, pues no conviene elogiarse por algo que todavía no ha llegado a su fin. La valoración definitiva exige concluir, no adelantarse confiadamente.	"
+<p>
+Significado: 'No te alabes antes de acabar'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes de que te cases, mira lo que haces
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	En un sentido recto, este refrán recomienda no unirse en matrimonio a la ligera, sino considerar previamente el compromiso que encierra. En un sentido más amplio, aconseja reflexionar bien un asunto importante antes de lanzarse a ello. Se aplica asimismo a diferentes decisiones sobre cuyas ventajas e inconvenientes se debe reflexionar antes.	"
+<p>
+Significado: 'Antecedentes familiares'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes es la obligación que la devoción
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No hay que dar prioridad a cosas que nos agradan o que son buenas, pues primero hay que cumplir con los deberes.	"
+<p>
+Significado: 'Antecede la obligación a la devoción'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes moral tardío que almendro florido
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La presteza en florecer en primavera del almendro se contrapone a la maduración tardía del moral, en verano, y sirve para aconsejar calma cuando se ha de tomar una determinación, al tiempo que advierte que en ocasiones las personas precoces se malogran.	"
+<p>
+Significado: 'Ante todo, la honra'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes quebrar que doblar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aconseja cumplir con su deber y mantenerse firme en el ejercicio de la justicia o en la manifestación de la verdad para evitar no rendirse ante el interés o las dificultades ni dejarse influir en las decisiones. Se trata de un consejo aplicado de modo especial a los jueces. También se aplica al que no da su brazo a torcer ni cede en una contienda.	"
+<p>
+Significado: 'No es mejor perder la cabeza que la cabeza.'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes se coge al mentiroso que al cojo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se descubre pronto y con suma facilidad al que miente porque incurre en inexactitudes o contradicciones. Se suele emplear este refrán cuando se descubre al mentiroso.	"
+<p>
+Significado: 'Ante se coge al mentiroso que al cojo'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Antes son mis dientes que mis parientes
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se deben atender primero las necesidades propias antes que las de los demás, incluso aunque se trate de personas muy allegadas.	"
+<p>
+Significado: 'Ante mis dientes que mis parientes'
+</p>
+
+
+### Hints:
+
+* El refran es un dicho popular, una frase o expresión proverbial.
+* Un refrán es una frase o expresión proverbial.
+* Un dicho popular es una frase o expresión proverbial.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aprende a perder y aprenderás a ganar y a triunfar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	De las situaciones poco propicias, puede extraerse enseñanzas útiles para seguir adelante y conseguir llegar al objetivo marcado.	"
+El significado del refrán es:
+
+Aprender a perder y aprenderás a ganar y a triunfar
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aprended a bien callar, para que sepáis bien hablar
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda ser discretos en el hablar guardando silencio, escuchando con paciencia, no adelantándose en el hablar para poder hablar oportunamente.	"
+La respuesta correcta es:
+
+Significado: 'No seas tonto, porque no lo eres'
+Refrán: Aprended a bien callar, para que sepáis bien hablar
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aprendiz de mucho, maestro de nada
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No conseguirá nada quien no acaba de decidirse por un oficio y le falta constancia y espíritu de sacrificio para prepararse convenientemente. Recrimina a quien pretende abarcar demasiadas actividades profesionales, lo que desemboca en ser incapaz de desempeñar una bien.	"
+<p>
+Significado: 'Aprendiz de mucho, maestro de nada'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aquel es tu amigo, que te quita de ruidos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La mejor prueba de amistad es procurar evitar todo motivo de disgusto, apartar pendencias.	"
+<p>
+Significado: 'Aquel es tu amigo, que te quita de ruidos'</p>
+
+
+### Expectation:
+
+El refrán se refiere a la amistad y al buen trato.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aquel va más sano, que anda por lo llano
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Conviene elegir la vía más segura para huir de los peligros y ser moderado, para alejarse de los extremos que puedan resultar peligrosos.	"
+<p>
+Significado: 'Aquel va más sano, que anda por lo llano'</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aquella ave es mala que en su nido se ensucia
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda desconfiar de quien no respeta lo suyo.	"
+La respuesta debe ser un texto con el significado del refrán y la frase completa.
+
+
+### Hints:
+
+* El refran es una expresión popular, generalmente de origen oral, que tiene un sentido o significado particular.
+* La paremia es una figura retórica en la cual se comparan dos cosas para ilustrar una idea.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aquella es bien casada, que ni tiene suegra ni cuñada
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Da a entender que las relaciones familiares políticas no son siempre fáciles, de modo que vive con más tranquilidad quien no conoce suegra ni cuñadas.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* <https://es.wikipedia.org/wiki/Refranero>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aquellos son ricos que tienen amigos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Este refrán contiene un elogio de la amistad. Más que los bienes materiales, la verdadera riqueza reside en el aprecio de los demás; la amistad constituye un bien digno de estima.	"
+<p>
+Significado: 'Aquellos son ricos que tienen amigos'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ara con niños, segarás cadillos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Los niños carecen de conocimiento y de la fuerza suficiente para realizar labores agrícolas, como la de arar la tierra. El niño simboliza el obrero inexperto. En sentido general, no se obtienen beneficios si se elige un colaborador inexperto, por ahorrarse un dinero al pagar un sueldo bajo o por no seleccionar bien a los que van a ayudar. También se utiliza para aconsejar la conveniencia de mantener a distancia a los niños.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* <https://es.wikipedia.org/wiki/Paremia>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: 'Aramos', dijo la mosca. Y estaba en el cuerno del buey
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Critica a quienes se jactan de realizar el trabajo que otros hacen.	"
+* **Correct**:
+    * Significado: 'Aramos', dijo la mosca. Y estaba en el cuerno del buey'
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Arrieros somos, y en el camino nos encontraremos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Si alguien nos niega su ayuda, pensamos que, cuando nos necesite, seremos nosotros quienes no le haremos el favor que nos pida. Se dice este refrán como advertencia o intención oculta con la idea de desquitarnos de los agravios recibidos o de la actitud contraria de alguien.	"
+La respuesta correcta es:
+
+Significado: 'Arrieros somos, y en el camino nos encontraremos'
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* La paremia es una figura de estilo que consiste en la repetición de dos o más palabras o expresiones, pero con el significado opuesto a su uso habitual.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Asno callado, por sabio es contado
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No siempre el silencio de alguien equivale a prudencia o discreción.	"
+<p>
+Significado: 'Asno callado, por sabio es contado'
+</p>
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado profundo.
+* El refran es una expresión de sentido común.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Asno con oro, alcánzalo todo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aunque se trate de un necio, si es rico, obtendrá lo que quiere.	"
+<p>
+Significado: 'Asno con oro, alcánzalo todo'
+</p>
+
+
+### Hints:
+
+* El refran es un dicho popular que tiene un significado especial.
+* El refran se puede usar como una expresión para describir una situación o un hecho.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Asno de muchos, lobos lo comen
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Lo que pertenece a muchos o lo que usan muchos pero nadie cuida como propio, acaba por perderse o deteriorarse. Por eso, el cuidado particular de las cosas es el efectivo.	"
+<p>
+Significado: 'Asno de muchos, lobos lo comen'</p>
+
+
+### Explanation:
+
+El significado del refrán es: ""Un asno de muchos, los lobos lo comen""
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Asno rudo, aguijón agudo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Al que es tosco no hay que tratarlo con cariño, sino de manera que reaccione.	"
+<p>
+Significado: 'Asno rudo, aguijón agudo'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aún no ensillamos, y ya cabalgamos
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	No es prudente hacer planes sin contar con los medios necesarios, porque pueden malograrse.	"
+<p>
+Significado: 'Aún no ensillamos, y ya cabalgamos' es un refrán que se refiere a la necesidad de tener paciencia y esperar a que las cosas estén listas antes de empezar.
+</p>"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aún no ha salido del cascarón, y ya tiene espolón
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Crítica a los jóvenes que, pese a su poca experiencia, presumen de mayores o excusan achaques propios de alguien mayor.	"
+La respuesta correcta es:
+
+Significado: 'Aún no ha salido del cascarón, y ya tiene espolón'
+
+
+### Hints:
+
+* El refran es un dicho popular que contiene una cierta doctrina moral.
+* El significado de un refrán es la interpretación que se hace de él.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aunque la mona se vista de seda, mona se queda
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	La condición de cada uno o los defectos naturales no se pueden encubrir ni cambiar con mejoras meramente externas.	"
+La respuesta debe ser un texto en español.
+
+
+### Hints:
+
+* El refran es una expresión popular que tiene un significado o sentido especial.
+* La paremia es una figura de estilo que consiste en la asociación de dos conceptos, palabras o frases que tienen una relación lógica entre sí.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aunque seas muy sabio y viejo, no desdeñes el consejo
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Siempre es conveniente reforzar nuestro criterio con los consejos que podamos recibir.	"
+La respuesta correcta es:
+
+Significado: 'No te olvides de lo que has aprendido'
+Refrán: Aunque seas muy sabio y viejo, no desdeñes el consejo
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Aunque todo sea barro, no es lo mismo tinaja que jarro
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Aunque haya personas de igual origen o cosas hechas de un mismo material, sus cualidades o su conducta pueden no ser idénticas.	"
+La respuesta correcta es:
+
+Significado: 'El refrán se refiere a la diferencia entre dos cosas. En este caso, el refrán dice que aunque las personas son iguales en su naturaleza, no son lo mismo si tienen diferentes características.'
+Refrán: Aunque todo sea barro, no es lo mismo tinaja que jarro
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ave que vuela, a la cazuela
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se dice para afirmar que todo es aprovechable.	"
+<p>
+Significado: 'Ave que vuela, a la cazuela'
+</p>
+
+
+### Hints:
+
+* El significado de un refrán es una expresión que tiene un sentido especial.
+* Un refrán puede ser una frase o un dicho popular.
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ayúdate, y te ayudaré
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Recomienda poner los medios a nuestro alcance para lograr algo y no contar con ayuda ajena.	"
+<p>
+Significado: 'Ayúdame a ayudarte'
+</p>
+"
+"
+Eres un experto en cultura castellana,
+tu misión es explicar el significado de una paremia o refrán.
+"	"
+Dime el signifcado del refran que aparece a continución
+El formato de salida es el siguiente: 
+Significado: '<texto entre comillas>'
+Refrán: Ayunar, o comer trucha
+"	"
+In: 
+    Refrán: ""No es oro todo lo que reluce""
+Out:
+    Significado: ""Nos señala la importancia de no dejar llevarse por las primeras impresiones. 
+    Es decir, intentar nunca confiar en las apariencias.""
+"	Se dice de quien no se conforma con la medianía, sino que aspira a  algo de más calidad. Con este refrán, se recrimina a quien es extremado: o todo o nada; o logra lo que anhela o renuncia a todo. Pero, puede suceder que, por esperar algo mejor, pierda una oportunidad razonable.	"
+<p>
+Significado: 'Ayunar, o comer trucha'</p>
+"
